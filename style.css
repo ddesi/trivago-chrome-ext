@@ -1,0 +1,126 @@
+.newItem {
+    background-color: rgb(0,127,173);
+    min-height: 2000px;
+}
+
+.newCenter {
+	width: 1300px;
+	padding: 1em;
+}
+
+/*.newMap {
+	float: left;
+	margin-left: -100px;
+	width: 300px;
+}*/
+
+.newHotel {
+	position: relative;
+	margin: 0 auto;
+	padding: 1em;
+	background-color: red;
+}
+
+.newHotel img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+}
+
+.main, .content {
+	width: 500px;
+	margin: 0 auto;
+}
+
+#js_center_content {
+	margin: 0;
+}
+
+.item {
+	box-shadow: 0 !important;
+	height: 200px !important;
+}
+
+.item__image-area {
+	padding: 0;
+}
+
+.item__flex-column {
+	width: 100%;
+}
+
+.item__image-wrapper {
+	width: 250px;
+}
+
+.item__image-wrapper {
+	width: 120%;
+}
+
+.item__slideout {
+	z-index: 1;
+}
+
+.item__details {
+	padding: 1px;
+	border: 0 !important;
+	color: #007FAD;
+	margin-left: 40px;
+	width: 100%;
+}
+
+.item__review {
+	padding: 0 !important;
+}
+
+.details__paragraph {
+	padding: 0 !important;
+}
+
+.item__flex-column {
+	width: 500px;
+}
+
+.item__deal-best {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.item__deal-best-link {
+	width: 120%;
+}
+
+.btn {
+	width: 100px !important;
+	font-size: 10px;
+	text-transform: uppercase;
+	padding: 0 !important;
+}
+
+.item__deal-best .btn {
+	padding: 0 !important;
+}
+
+
+
+.hotellistbottom {
+	background-color: #fff;
+	color: #F48F00;
+}
+
+/*@media only screen and (min-width: 600px).flexbox .item__deal-best-link {
+    margin: 0 auto;
+    width: 60%;
+}*/
+
+
+
+
+
+
+
+
+
