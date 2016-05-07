@@ -14,21 +14,6 @@
 	width: 300px;
 }*/
 
-.newHotel {
-	position: relative;
-	margin: 0 auto;
-	padding: 1em;
-	background-color: red;
-}
-
-.newHotel img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100px;
-	height: 100px;
-}
-
 .main, .content {
 	width: 500px;
 	margin: 0 auto;
