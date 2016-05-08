@@ -89,22 +89,22 @@ $(document).ready(function(){
 //          if (i < arr.length - 1){
 //             i +=1;
 //             $(current).hide();
-//             current = $(current).next('li').slideToggle();
+//             current = $(current).next('li').fadeIn();
 //          } else {
 //             i = 0;
 //             $(current).hide();
-//             current = $('#js_itemlist').find('li:first').slideToggle();
+//             current = $('#js_itemlist').find('li:first').fadeIn();
 //          };
 
 // previous_hotel = function(){ 
 //          if(i > 0 ){
 //             i -= 1;
 //             $(current).hide();
-//             current = $(current).prev('li').slideToggle();
+//             current = $(current).prev('li').fadeIn();
 //          } else {
 //             i = arr.length - 1;
 //             $(current).hide();
-//             current = $('#js_itemlist').find('li:nth-child(numli)').slideToggle();
+//             current = $('#js_itemlist').find('li:nth-child(i)').fadeIn();
 //          };
 
 // i would remove all classes and create my own to display only the current item
